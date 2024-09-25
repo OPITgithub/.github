@@ -24,7 +24,6 @@ To enhance both the security and educational experience on this platform, we hav
 
 To maintain consistency and ensure smooth access to course materials and assignments, we **strongly recommend that all students use their institutional email account (@students.opit.com)** when forking or interacting with course repositories. Using your institutional account ensures that:
 - You are properly recognized within the OPIT network, allowing you to automatically inherit the correct permissions for accessing internal repositories.
-- Instructors and teaching assistants can easily track and access your work for grading and feedback. If you do not currently use your institutional account, please switch to it for all OPIT-related work. If you need assistance updating your GitHub account, feel free to reach out to the IT support team.
 
 **Summary of Changes**
 - Base permission for all students is now "**No Permission**". Students will not have automatic access to repositories unless explicitly granted.
